@@ -10,3 +10,7 @@
 **Goal state:** All rows are filled such that no queens are at attacking positions.
 
 **cost:** Heuristic is used for A*.
+
+**Compilation instruction :**  g++ 8queens_A*1801054.cpp
+
+
